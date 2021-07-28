@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+}
+
+.title-container {
+    text-align: center;
+}
+
+.title {
+    color: white;
+    background-color: #a52a2a;
+    font-size: 30px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.text {
+    font-size: 18px;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.blue {
+    color: blue;
+}
+
+.car-container {
+    text-align: center;
+}
+
+.car-item {
+    list-style: none;
+    display: inline-block;
+    border: dashed;
+}
+
+.image-wrapper img {
+    display: block;
+    width: 100%;
+}
+
+.footer {
+    background-color: #000000;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
